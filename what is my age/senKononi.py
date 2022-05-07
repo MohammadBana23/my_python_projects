@@ -1,5 +1,3 @@
-#Armin Darabi Mahboub
-
 from datetime import date
 
 def main():

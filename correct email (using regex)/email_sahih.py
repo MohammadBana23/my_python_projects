@@ -1,5 +1,3 @@
-#Armin Darabi Mahboub
-
 import re
 
 def main():

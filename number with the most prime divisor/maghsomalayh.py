@@ -1,5 +1,3 @@
-# Armin Darabi Mahboub
-
 from math import sqrt
 
 def main():

@@ -1,5 +1,3 @@
-# Armin Darabi Mahboub
-
 # inputs:
 how_many_data = int(input())
 list_of_data = [None] * how_many_data

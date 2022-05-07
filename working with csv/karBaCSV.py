@@ -1,4 +1,3 @@
-#Armin Darabi Mahboub
 import csv
 from statistics import mean
 

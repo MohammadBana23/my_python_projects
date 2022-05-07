@@ -1,5 +1,3 @@
-# Armin Darabi Mahboub
-
 # Global variables
 win = [0] * 4
 lose = [0] * 4
